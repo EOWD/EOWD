@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=EOWD)](https://github.com/EOWD)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EOWD&layout=compact)](https://github.com/EOWD)
