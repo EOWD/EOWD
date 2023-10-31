@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=EOWD)](https://github.com/EOWD)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EOWD&layout=compact)](https://github.com/EOWD)
