@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif" width="400"/>
