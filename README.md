@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/0hv8d4HrDVI6m7w7pF/giphy.gif" />
 </div>
- <a href="[your-linkedin-URL](https://www.linkedin.com/in/eiadoraby)">
+ <a href="https://www.linkedin.com/in/eiadoraby">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
