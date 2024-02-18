@@ -14,7 +14,7 @@
   height="40"/>&nbsp;
          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+   Express.js
  
 
 
