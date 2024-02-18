@@ -13,7 +13,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EOWD&style=flat-square&color=blue" alt=""/>
 
-
+</div>
 
 
 ###  Languages and Tools :
