@@ -16,6 +16,9 @@
 </h1>
 </div>
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -28,7 +31,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EOWD&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EOWD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
