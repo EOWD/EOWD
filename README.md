@@ -8,11 +8,8 @@
  <a href="https://www.linkedin.com/in/eiadoraby">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EOWD&style=flat-square&color=blue" alt=""/>
-
 </div>
 
 
@@ -34,9 +31,9 @@
 
 ###  My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EOWD&theme=dark&background=000000)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EOWD&theme=dark&background=000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EOWD&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EOWD&layout=compact&theme=vision-friendly-dark)
 
 
 
