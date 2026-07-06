@@ -6,8 +6,10 @@
   <!-- ===== TYPING INTRO ===== -->
   <div align="center">
   
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+Python+%7C+React;Building+products+end-to-end;Off+the+keybo
-  ard%3A+on+the+rink+%F0%9F%8F%92)](https://git.io/typing-svg)
+  ard:+on+the+rink+%F0%9F%8F%92)](https://github.com/EOWD)
+
 
   <a href="https://www.linkedin.com/in/eiadoraby">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
