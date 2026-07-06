@@ -74,20 +74,7 @@
 
   ---
   
-  ### 📊 GitHub Stats
 
-  <div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EOWD&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EOWD&layout=compact&hide_border=true&theme=radical" alt="top langs"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EOWD&hide_border=true&theme=radical&background=00000000" alt="streak"/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=EOWD&theme=radical&no-frame=true&column=7&margin-w=8" alt="trophies"/>
-
-  </div>
-
-  ---
   
   ### 📈 Contribution Graph
 
